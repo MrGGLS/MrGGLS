@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrGGLS
+- 👋 Hi, I’m @MrGGLS from XDU
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning ML, DL, Hadoop... (It's hard, right? :)
+- 🌱 I’m currently learning ML, DL, Hadoop... Just almost everything interesting! :)
 - 📫 How to reach me ... contact me in **gglsisthebestman@gmail.com** if you have any question
 
 <!---
