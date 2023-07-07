@@ -1,8 +1,7 @@
-- 👋 Hi, I’m MrGGLS from XDU
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning ML, DL, Hadoop... Just almost everything interesting! :)
+- 👋 Hi, I’m MrGGLS from XDU (now in SYSU for NLP master degree)
+- 👀 I’m interested in NLP
+- 🌱 I’m currently learning awesome techniques about LLM :)
 - 📫 How to reach me ... contact me in **gglsisthebestman@gmail.com** if you have any question  
-- ❗ This is my personal website **www.ggls.world**. It contains just something dumb...
 <!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.gglsisthebestman@gmail.com) -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrGGLS&show_icons=true&theme=tokyonight"/></p>  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGGLS&layout=compact)](https://github.com/MrGGLS/github-readme-stats)  
