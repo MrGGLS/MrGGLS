@@ -1,7 +1,8 @@
-- 👋 Hi, I’m MrGGLS from XDU (now in SYSU for NLP master degree)
-- 👀 I’m interested in NLP
-- 🌱 I’m currently learning awesome techniques about LLM :)
-- 📫 How to reach me ... contact me in **gglsisthebestman@gmail.com** if you have any question  
+- 👋 Hi, I'm MrGGLS — Member of Technical Staff at Moonshot AI
+- 🎓 M.S. from SYSU (advised by Prof. Xiaojun Quan), B.E. from XDU
+- 👀 I'm interested in LLMs, agents, and reinforcement learning
+- 🌱 Currently working on agentic intelligence and RL for LLMs
+- 📫 Reach me at **gglsisthebestman@gmail.com** if you have any question  
 <!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.gglsisthebestman@gmail.com) -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrGGLS&show_icons=true&theme=tokyonight"/></p>  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGGLS&layout=compact)](https://github.com/MrGGLS/github-readme-stats)  
